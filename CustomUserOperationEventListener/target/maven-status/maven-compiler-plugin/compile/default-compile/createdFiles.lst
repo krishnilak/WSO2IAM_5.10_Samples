@@ -1,0 +1,3 @@
+com/wso2/custom/eventmgt/DataHolder.class
+com/wso2/custom/eventmgt/internal/CustomUserOperationEventListenerDSComponent.class
+com/wso2/custom/eventmgt/SampleUserOperationEventListener.class

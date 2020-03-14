@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Export-Package: com.wso2.custom.usermgt;uses:="org.jasypt.util.passwor
+ d,org.wso2.carbon.utils,org.wso2.carbon.user.core,org.apache.commons.
+ logging,org.wso2.carbon.user.core.common,org.wso2.carbon.user.core.ut
+ il,org.wso2.carbon.user.api,org.wso2.carbon.user.core.claim,org.wso2.
+ carbon.user.core.jdbc,org.wso2.carbon.user.core.profile";version="1.0
+ .0"
+Bundle-SymbolicName: CustomReadOnlyJDBCUserStoreManagerCustomReadOnlyJ
+ DBCUserStoreManager
+Bundle-Version: 1.0.0
+Bundle-Name: CustomReadOnlyJDBCUserStoreManagerCustomReadOnlyJDBCUserS
+ toreManager
+Built-By: krishni
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1584154988510
+Import-Package: org.apache.commons.logging;version="[1.2,2)",org.jasyp
+ t.util.password,org.wso2.carbon.user.api;version="[1.0,2)",org.wso2.c
+ arbon.user.core;version="[4.6,5)",org.wso2.carbon.user.core.claim;ver
+ sion="[4.6,5)",org.wso2.carbon.user.core.common;version="[4.6,5)",org
+ .wso2.carbon.user.core.jdbc;version="[4.6,5)",org.wso2.carbon.user.co
+ re.profile;version="[4.6,5)",org.wso2.carbon.user.core.util;version="
+ [4.6,5)",org.wso2.carbon.utils;version="[4.6,5)"
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.43.0
+Build-Jdk: 1.8.0_201
+
