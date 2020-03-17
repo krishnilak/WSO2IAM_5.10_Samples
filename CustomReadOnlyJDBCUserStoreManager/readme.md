@@ -15,7 +15,7 @@ Configure the user store type in the deployment.toml
 
 ```
 [user_store]
-type = “databse_unique_id”
+type = “database_unique_id”
 ```
 
 Configure the database connection, here userdb is the database name. Replace database name, username, password values with your configurations.
